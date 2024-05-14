@@ -1,0 +1,5 @@
+- [ ] I agree to follow the project's [code of conduct](https://github.com/georust/.github/blob/main/CODE_OF_CONDUCT.md).
+- [ ] I added an entry to the project's change log file if knowledge of this change could be valuable to users.
+  - Usually called `CHANGES.md` or `CHANGELOG.md`
+  - Prefix changelog entries for breaking changes with "BREAKING: "
+---
