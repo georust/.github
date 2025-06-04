@@ -8,3 +8,5 @@
 👋 We're active on [Discord](https://discord.gg/Fp2aape): please come and say hello, ask questions, or [get help](https://discord.gg/A2HEFRvKfk).
 
 📗 A [book](https://book.georust.org/) is (slowly) in development.
+
+If you need administrative or moderation help with a georust project, please contact [@georust/admins](https://github.com/orgs/georust/teams/admins).
